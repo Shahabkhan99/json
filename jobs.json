@@ -1,7 +1,7 @@
 {
   "JobStatus" : "Avaiable Jobs",
   "CountryCode" : "Metro City",
-  "Year" : 2020,
+  "Year" : "2020",
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
