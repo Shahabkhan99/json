@@ -1,16 +1,16 @@
 {
-  "JobStatus" : "Avaiable Jobs",
-  "CountryCode" : "Amarica USA",
-  "Year" : 2020,
-  "Branch" : "Head Office",
+  "squadName" : "Avaiable Jobs",
+  "homeTown" : "Metro City",
+  "formed" : 2020,
+  "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
       "name" : "plumber Man",
-      "job_code" : "09001",
       "age" : "25 to 29",
-      "cityCode" : "New York",
-      "description" : [
+      "job_code" : "01001",
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
@@ -18,10 +18,10 @@
     },
     {
       "name" : "Labor Man",
-      "job_code" : "01001",
       "age" : "25 to 39",
-      "cityCode" : "Boston",
-      "description" : [
+      "job_code" : "01001",
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
@@ -29,10 +29,10 @@
     },
     {
       "name" : "Elect Man1",
-      "job_code" : "02001",  
       "age" : "25 to 40",
-      "cityCode" : "Unknown",
-      "description" : [
+      "job_code" : "02001",  
+      "secretIdentity" : "Unknown",
+      "powers" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -42,10 +42,10 @@
     },
           {
       "name" : "Elect Man2",
-      "job_code" : "03001",
       "age" : "25 to 40",
-      "cityCode" : "Unknown",
-      "description" : [
+      "job_code" : "03001",
+      "secretIdentity" : "Unknown",
+      "powers" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -55,10 +55,10 @@
     },
           {
       "name" : "Teaboy Man2",
-      "job_code" : "04001",
       "age" : "25 to 40",
-      "cityCode" : "Unknown",
-      "description" : [
+      "job_code" : "04001",
+      "secretIdentity" : "Unknown",
+      "powers" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -68,10 +68,10 @@
     },
           {
       "name" : "Teaboy Man3",
-      "job_code" : "05001",
       "age" : "25 to 40",
-      "cityCode" : "Unknown",
-      "description" : [
+      "job_code" : "05001",
+      "secretIdentity" : "Unknown",
+      "powers" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -81,4 +81,3 @@
     }    
   ]
 }
-
