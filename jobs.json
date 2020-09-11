@@ -81,3 +81,87 @@
     }    
   ]
 }
+{
+  "JobStatus" : "Avaiable Jobs",
+  "CountryCode" : "Amarica USA",
+  "Year" : 2020,
+  "Branch" : "Head Office",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "plumber Man",
+      "job_code" : "09001",
+      "age" : "25 to 29",
+      "cityCode" : "New York",
+      "description" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Labor Man",
+      "job_code" : "01001",
+      "age" : "25 to 39",
+      "cityCode" : "Boston",
+      "description" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Elect Man1",
+      "job_code" : "02001",  
+      "age" : "25 to 40",
+      "cityCode" : "Unknown",
+      "description" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    },
+          {
+      "name" : "Elect Man2",
+      "job_code" : "03001",
+      "age" : "25 to 40",
+      "cityCode" : "Unknown",
+      "description" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+        ]
+    },
+          {
+      "name" : "Teaboy Man2",
+      "job_code" : "04001",
+      "age" : "25 to 40",
+      "cityCode" : "Unknown",
+      "description" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    },
+          {
+      "name" : "Teaboy Man3",
+      "job_code" : "05001",
+      "age" : "25 to 40",
+      "cityCode" : "Unknown",
+      "description" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }    
+  ]
+}
+
