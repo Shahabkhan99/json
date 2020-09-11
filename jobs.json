@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name" : "Electicion Man",
+      "name" : "Elect Man1",
       "age" : "25 to 40",
       "secretIdentity" : "Unknown",
       "powers" : [
@@ -60,6 +60,18 @@
         "Teleportation",
         "Interdimensional travel"
       ]
-    }
+    },
+          {
+      "name" : "Teaboy Man3",
+      "age" : "25 to 40",
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }    
   ]
 }
