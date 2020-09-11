@@ -8,6 +8,7 @@
     {
       "name" : "plumber Man",
       "age" : "25 to 29",
+      "job_code" : "01001",
       "secretIdentity" : "Dan Jukes",
       "powers" : [
         "Radiation resistance",
@@ -18,6 +19,7 @@
     {
       "name" : "Labor Man",
       "age" : "25 to 39",
+      "job_code" : "01001",
       "secretIdentity" : "Jane Wilson",
       "powers" : [
         "Million tonne punch",
@@ -28,6 +30,7 @@
     {
       "name" : "Elect Man1",
       "age" : "25 to 40",
+      "job_code" : "02001",  
       "secretIdentity" : "Unknown",
       "powers" : [
         "Immortality",
@@ -40,6 +43,7 @@
           {
       "name" : "Elect Man2",
       "age" : "25 to 40",
+      "job_code" : "03001",
       "secretIdentity" : "Unknown",
       "powers" : [
         "Immortality",
@@ -52,6 +56,7 @@
           {
       "name" : "Teaboy Man2",
       "age" : "25 to 40",
+      "job_code" : "04001",
       "secretIdentity" : "Unknown",
       "powers" : [
         "Immortality",
@@ -64,6 +69,7 @@
           {
       "name" : "Teaboy Man3",
       "age" : "25 to 40",
+      "job_code" : "05001",
       "secretIdentity" : "Unknown",
       "powers" : [
         "Immortality",
