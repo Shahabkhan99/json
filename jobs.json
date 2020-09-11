@@ -9,7 +9,7 @@
       "name" : "plumber Man",
       "age" : "25 to 29",
       "job_code" : "01001",
-      "secretIdentity" : "Dan Jukes",
+      "cityCode" : "New York",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
@@ -20,7 +20,7 @@
       "name" : "Labor Man",
       "age" : "25 to 39",
       "job_code" : "01001",
-      "secretIdentity" : "Jane Wilson",
+      "cityCode" : "New York",
       "powers" : [
         "Million tonne punch",
         "Damage resistance",
@@ -31,7 +31,7 @@
       "name" : "Elect Man1",
       "age" : "25 to 40",
       "job_code" : "02001",  
-      "secretIdentity" : "Unknown",
+      "cityCode" : "New York",
       "powers" : [
         "Immortality",
         "Heat Immunity",
@@ -57,8 +57,8 @@
       "name" : "Teaboy Man2",
       "age" : "25 to 40",
       "job_code" : "04001",
-      "secretIdentity" : "Unknown",
-      "powers" : [
+      "cityCode" : "New York",
+        "powers" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -70,8 +70,8 @@
       "name" : "Teaboy Man3",
       "age" : "25 to 40",
       "job_code" : "05001",
-      "secretIdentity" : "Unknown",
-      "powers" : [
+      "cityCode" : "New York",
+        "powers" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
