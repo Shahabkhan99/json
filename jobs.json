@@ -36,6 +36,18 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+          {
+      "name" : "Elect Man2",
+      "age" : "25 to 40",
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     }
   ]
 }
