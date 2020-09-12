@@ -1,8 +1,8 @@
 {
-  "JobStatus" : "Avaiable Jobs",
-  "CountryCode" : "Metro City",
+  "JobStatus" : "Available Jobs",
+  "CountryCode" : "United Stats of Amirica",
   "Year" : "2020",
-  "secretBase" : "Super tower",
+  "Branch" : "Head Office",
   "active" : true,
   "members" : [
     {
