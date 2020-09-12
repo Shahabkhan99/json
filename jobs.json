@@ -21,7 +21,7 @@
       "age" : "25 to 39",
       "job_code" : "01001",
       "cityCode" : "New York",
-      "powers" : [
+      "description" : [
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
@@ -32,7 +32,7 @@
       "age" : "25 to 40",
       "job_code" : "02001",  
       "cityCode" : "New York",
-      "powers" : [
+      "description" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -45,7 +45,7 @@
       "age" : "25 to 40",
       "job_code" : "03001",
       "secretIdentity" : "Unknown",
-      "powers" : [
+      "description" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -58,7 +58,7 @@
       "age" : "25 to 40",
       "job_code" : "04001",
       "cityCode" : "New York",
-        "powers" : [
+        "description" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
@@ -71,7 +71,7 @@
       "age" : "25 to 40",
       "job_code" : "05001",
       "cityCode" : "New York",
-        "powers" : [
+        "description" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
