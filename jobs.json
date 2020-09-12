@@ -7,10 +7,10 @@
   "members" : [
     {
       "name" : "plumber Man",
-      "age" : "25 to 29",
       "job_code" : "01001",
+      "age" : "25 to 29",
       "cityCode" : "New York",
-      "powers" : [
+      "description" : [
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
@@ -18,8 +18,8 @@
     },
     {
       "name" : "Labor Man",
-      "age" : "25 to 39",
       "job_code" : "01001",
+      "age" : "25 to 39",
       "cityCode" : "New York",
       "description" : [
         "Million tonne punch",
@@ -29,6 +29,7 @@
     },
     {
       "name" : "Elect Man1",
+      "job_code" : "02001",  
       "age" : "25 to 40",
       "job_code" : "02001",  
       "cityCode" : "New York",
@@ -55,8 +56,8 @@
     },
           {
       "name" : "Teaboy Man2",
-      "age" : "25 to 40",
       "job_code" : "04001",
+      "age" : "25 to 40",
       "cityCode" : "New York",
         "description" : [
         "Immortality",
@@ -68,8 +69,8 @@
     },
           {
       "name" : "Teaboy Man3",
-      "age" : "25 to 40",
       "job_code" : "05001",
+      "age" : "25 to 40",
       "cityCode" : "New York",
         "description" : [
         "Immortality",
