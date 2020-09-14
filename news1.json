@@ -3,4 +3,15 @@
   "News2" : "Gooogle 2020",
   "News3" : "Head Office Update",
   "active" : true,
-}
+"members" : [
+    {
+      "name" : "plumber Man",
+      "job_code" : "01001",
+      "age" : "25 to 29",
+      "cityCode" : "New York",
+      "description" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    }
