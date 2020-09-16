@@ -2,7 +2,6 @@
   "News1" : "United States of America",
   "News2" : "Gooogle 2020",
   "News3" : "Head Office Update",
-  "Img"  :  "https://www.eweek.com/imagesvr_ez/b2bezp/2019/01/Github.logo.jpg?alias=article_hero",
   "active" : true,
 "members" : [
     {
@@ -15,6 +14,10 @@
         "Turning tiny",
         "Radiation blast"
       ]
+    },
+    {
+        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ritu/128.jpg",
+        "id": "logo"
     }
   ]
 }
